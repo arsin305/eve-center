@@ -27,6 +27,11 @@ A lightweight Python/tkinter utility for centering EVE Online client windows on 
 
 ---
 
+## Support
+If you enjoy my work, feel free to buy me a coffee!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U31XQGE8)
+
 ## Requirements
 
 ### System
