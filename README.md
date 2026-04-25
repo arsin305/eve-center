@@ -16,14 +16,14 @@ A lightweight Python/tkinter utility for centering EVE Online client windows on 
 
 ## Features
 
-- **Auto-detects your monitors** via `xrandr` — picks your primary display automatically
+- **Auto detects your monitors** via `xrandr` picks your primary display automatically
 - **Resolution presets** for common streaming resolutions (1080p, 720p, QHD, Ultrawide)
 - **Custom resolution** input for any fixed window size
-- **Single & Dual client modes** — center one window or place two EVE clients side-by-side on your ultrawide
-- **Live layout preview** — see exactly where windows will land before applying
-- **EVE client detection** — scans for running EVE windows via `xdotool`
-- **Works via XWayland** — compatible with Wayland desktops running EVE through Proton/Wine
-- **Eve-themed UI** — dark interface styled to match the EVE aesthetic
+- **Single & Dual client modes** center one window or place two EVE clients side by side on your ultrawide
+- **Live layout preview** see exactly where windows will land before applying
+- **EVE client detection** scans for running EVE windows via `xdotool`
+- **Works via XWayland** compatible with Wayland desktops running EVE through Proton/Wine
+- **Eve themed UI** dark interface styled to match the EVE aesthetic
 
 ---
 
@@ -80,7 +80,7 @@ python3 eve_center.py
 
 ### Using the tool
 1. Run `python3 eve_center.py`
-2. Your monitor is auto-detected under **MONITOR** — click **↺ Refresh** if needed
+2. Your monitor is autodetected under **MONITOR** click **↺ Refresh** if needed
 3. Select a **preset** or enter a custom Width/Height matching your EVE window
 4. Choose **Single Client** or **Dual Clients** mode
 5. Click **↺ Scan** to detect running EVE windows
@@ -152,7 +152,7 @@ Replace `/path/to/eve_center.py` with the actual path.
 
 ## License
 
-MIT License — free to use, modify, and share.
+MIT License free to use, modify, and share.
 
 ---
 
