@@ -2,7 +2,7 @@
 
 A lightweight Python/tkinter utility for centering EVE Online client windows on ultrawide monitors when streaming or recording with OBS. Built and tested on **Fedora KDE Plasma 43**.
 
-> Created for content creators who want to stream or record EVE Online with OBS while running the client in **Fixed Window** mode at a lower resolution — keeping it perfectly centered on your ultrawide display.
+> Created for content creators who want to stream or record EVE Online with OBS while running the client in **Fixed Window** mode at a lower resolution keeping it perfectly centered on your ultrawide display.
 
 ---
 
@@ -116,7 +116,7 @@ In **Dual Clients** mode, the tool splits your display in half horizontally and 
 
 **EVE window not detected after clicking Scan**
 - Make sure EVE Online is fully launched (past the login screen)
-- The tool searches for windows named `EVE` — verify with: `xdotool search --name EVE`
+- The tool searches for windows named `EVE` verify with: `xdotool search --name EVE`
 
 **Window moves to wrong position**
 - Ensure `GDK_BACKEND=x11` is set (the script sets this automatically)
