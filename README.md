@@ -84,7 +84,7 @@ python3 eve_center.py
 3. Select a **preset** or enter a custom Width/Height matching your EVE window
 4. Choose **Single Client** or **Dual Clients** mode
 5. Click **↺ Scan** to detect running EVE windows
-6. Click **⊹ APPLY LAYOUT** — your window(s) snap into place
+6. Click **⊹ APPLY LAYOUT** your window(s) snap into place
 
 ### Dual client (ultrawide side-by-side)
 In **Dual Clients** mode, the tool splits your display in half horizontally and centers each EVE window in its own half. On a `5120×1440` ultrawide with `1920×1080` windows, each client gets `2560px` of space with equal margins.
@@ -96,7 +96,7 @@ In **Dual Clients** mode, the tool splits your display in half horizontally and 
 1. Set EVE to Fixed Window at `1920×1080`
 2. Run this tool to center it on your `5120×1440` display
 3. In OBS, add a **Window Capture** source and select the EVE window
-4. OBS captures only the `1920×1080` window — clean stream, no black bars
+4. OBS captures only the `1920×1080` window clean stream, no black bars
 
 ---
 
