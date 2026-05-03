@@ -1,6 +1,6 @@
 # ◈ EVE Online Window Centering Tool
 
-A lightweight Python/tkinter utility for centering EVE Online client windows on ultrawide monitors when streaming or recording with OBS. Built and tested on **Fedora KDE Plasma 43**.
+A lightweight Python/tkinter utility for centering EVE Online client windows on ultrawide monitors when streaming or recording with OBS. Built and tested on **Fedora KDE Plasma 44**.
 
 > Created for content creators who want to stream or record EVE Online with OBS while running the client in **Fixed Window** mode at a lower resolution keeping it perfectly centered on your ultrawide display.
 
@@ -104,8 +104,8 @@ In **Dual Clients** mode, the tool splits your display in half horizontally and 
 
 | Component | Version |
 |-----------|---------|
-| OS | Fedora Linux 43 |
-| Desktop | KDE Plasma 6.6.1 |
+| OS | Fedora Linux 44 |
+| Desktop | KDE Plasma 6.6.4 |
 | Display Server | Wayland (XWayland for EVE) |
 | Python | 3.12 |
 | xdotool | 3.20211022.1 |
